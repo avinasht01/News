@@ -11,3 +11,6 @@ News app fetches news from Open news api - https://newsapi.org/
 Download the project and run on simulator / device.
 In case of database related error, delete "NewsArticle" db from xcode project and add it again from News project folder.
 No internet conditions can be verified on actual device, On simulator it does responds well.
+![TopHeadlines](https://github.com/user-attachments/assets/24725b72-4614-4aab-8bbc-189e3dcdddfa)
+![BookmarkedNews](https://github.com/user-attachments/assets/2a12545e-530e-4749-bf20-016756ac74d7)
+![NewsDetails](https://github.com/user-attachments/assets/1edfaa59-77db-4738-abff-119010e28d46)
